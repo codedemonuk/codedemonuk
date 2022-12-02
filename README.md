@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You can fine me tweeting at <a href="https://twitter.com/pervezc">@pervezc</a>, tooting on <a rel="me" href="https://hachyderm.io/@pervezc">Mastodon at @pervezc@hachyderm.io</a>, and blogging at <a href="https://www.thinkbinary.co.uk">www.thinkbinary.co.uk</a>
+You can fine me tweeting at <a href="https://twitter.com/pervezc">@pervezc</a>, tooting on @pervezc@hachyderm.io , and blogging at <a href="https://www.thinkbinary.co.uk">www.thinkbinary.co.uk</a>
